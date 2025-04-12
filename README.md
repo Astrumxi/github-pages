@@ -1,5 +1,134 @@
-<header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Astrumxi' Bet Hub</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #007bff;
+      color: white;
+      text-align: center;
+      padding: 1.5rem 1rem;
+    }
+    .container {
+      max-width: 600px;
+      margin: 1rem auto;
+      padding: 1rem;
+    }
+    .code-box {
+      background: #fff;
+      border-left: 5px solid #007bff;
+      margin-bottom: 1rem;
+      padding: 1rem;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .code-box h2 {
+      margin: 0 0 0.5rem;
+      color: #007bff;
+    }
+    .code-box .date {
+      font-size: 0.9rem;
+      color: #666;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      background: #007bff;
+      color: white;
+    }
+  </style>
+</head>
+<body>
 
+  <header>
+    <h1>Welcome to Astrumxi' Bet Hub</h1>
+    <p>Your daily home for clean, curated SportyBet codes</p>
+  </header>
+
+  <div class="container">
+    <!-- No codes added yet -->
+    <p style="text-align:center; color:#555;">No betting codes added yet. Check back soon!</p>
+  </div>
+
+  <footer>
+    &copy; 2025 Astrumxi' Bet Hub. All rights reserved.
+  </footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Astrumxi' Bet Hub</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #007bff;
+      color: white;
+      text-align: center;
+      padding: 1.5rem 1rem;
+    }
+    .container {
+      max-width: 600px;
+      margin: 1rem auto;
+      padding: 1rem;
+    }
+    .code-box {
+      background: #fff;
+      border-left: 5px solid #007bff;
+      margin-bottom: 1rem;
+      padding: 1rem;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .code-box h2 {
+      margin: 0 0 0.5rem;
+      color: #007bff;
+    }
+    .code-box .date {
+      font-size: 0.9rem;
+      color: #666;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      background: #007bff;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to Astrumxi' Bet Hub</h1>
+    <p>Your daily home for clean, curated SportyBet codes</p>
+  </header>
+
+  <div class="container">
+    <!-- No codes added yet -->
+    <p style="text-align:center; color:#555;">No betting codes added yet. Check back soon!</p>
+  </div>
+
+  <footer>
+    &copy; 2025 Astrumxi' Bet Hub. All rights reserved.
+  </footer>
+
+</body>
+</html>
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
